@@ -1,0 +1,54 @@
+C:\Users\Dell\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.exe
+C:\Users\Dell\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.deps.json
+C:\Users\Dell\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.runtimeconfig.json
+C:\Users\Dell\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.runtimeconfig.dev.json
+C:\Users\Dell\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.dll
+C:\Users\Dell\GestionBancaire.App\bin\Debug\net5.0\ref\GestionBancaire.App.dll
+C:\Users\Dell\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.pdb
+C:\Users\Dell\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.csproj.AssemblyReference.cache
+C:\Users\Dell\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.AssemblyInfoInputs.cache
+C:\Users\Dell\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.AssemblyInfo.cs
+C:\Users\Dell\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.csproj.CoreCompileInputs.cache
+C:\Users\Dell\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.dll
+C:\Users\Dell\GestionBancaire.App\obj\Debug\net5.0\ref\GestionBancaire.App.dll
+C:\Users\Dell\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.pdb
+C:\Users\Dell\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.genruntimeconfig.cache
+C:\Users\Dell\TP C#\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.csproj.AssemblyReference.cache
+C:\Users\Dell\TP C#\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\TP C#\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.AssemblyInfoInputs.cache
+C:\Users\Dell\TP C#\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.AssemblyInfo.cs
+C:\Users\Dell\TP C#\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.csproj.CoreCompileInputs.cache
+C:\Users\Dell\TP C#\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.dll
+C:\Users\Dell\TP C#\GestionBancaire.App\obj\Debug\net5.0\ref\GestionBancaire.App.dll
+C:\Users\Dell\TP C#\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.pdb
+C:\Users\Dell\TP C#\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.exe
+C:\Users\Dell\TP C#\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.deps.json
+C:\Users\Dell\TP C#\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.runtimeconfig.json
+C:\Users\Dell\TP C#\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.runtimeconfig.dev.json
+C:\Users\Dell\TP C#\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.dll
+C:\Users\Dell\TP C#\GestionBancaire.App\bin\Debug\net5.0\ref\GestionBancaire.App.dll
+C:\Users\Dell\TP C#\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.pdb
+C:\Users\Dell\TP C#\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.Core.dll
+C:\Users\Dell\TP C#\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.Core.pdb
+C:\Users\Dell\TP C#\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.csproj.CopyComplete
+C:\Users\Dell\TP C#\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.genruntimeconfig.cache
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.exe
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.deps.json
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.runtimeconfig.json
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.runtimeconfig.dev.json
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.dll
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\bin\Debug\net5.0\ref\GestionBancaire.App.dll
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.App.pdb
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.Core.dll
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\bin\Debug\net5.0\GestionBancaire.Core.pdb
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.csproj.CopyComplete
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.dll
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\obj\Debug\net5.0\ref\GestionBancaire.App.dll
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.pdb
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.App\obj\Debug\net5.0\GestionBancaire.App.genruntimeconfig.cache

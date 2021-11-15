@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{89928733-4FCE-4DD7-914C-2F2E1185BFBA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GestionBancaire.WinForm</RootNamespace>
+    <AssemblyName>GestionBancaire.WinForm</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CreationBanqueForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreationBanqueForm.Designer.cs">
+      <DependentUpon>CreationBanqueForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrediterCompteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrediterCompteForm.Designer.cs">
+      <DependentUpon>CrediterCompteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DebiterCompteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DebiterCompteForm.Designer.cs">
+      <DependentUpon>DebiterCompteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierCompteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifierCompteForm.Designer.cs">
+      <DependentUpon>ModifierCompteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransfertForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransfertForm.Designer.cs">
+      <DependentUpon>TransfertForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OuvrirCompteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OuvrirCompteForm.Designer.cs">
+      <DependentUpon>OuvrirCompteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListeComptesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListeComptesForm.Designer.cs">
+      <DependentUpon>ListeComptesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CrediterCompteForm.resx">
+      <DependentUpon>CrediterCompteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DebiterCompteForm.resx">
+      <DependentUpon>DebiterCompteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierCompteForm.resx">
+      <DependentUpon>ModifierCompteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OuvrirCompteForm.resx">
+      <DependentUpon>OuvrirCompteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreationBanqueForm.resx">
+      <DependentUpon>CreationBanqueForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListeComptesForm.resx">
+      <DependentUpon>ListeComptesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TransfertForm.resx">
+      <DependentUpon>TransfertForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GestionBancaire.Core\GestionBancaire.Core.csproj">
+      <Project>{dfdc9072-607b-4ed5-9aaf-46ebfa144bf9}</Project>
+      <Name>GestionBancaire.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

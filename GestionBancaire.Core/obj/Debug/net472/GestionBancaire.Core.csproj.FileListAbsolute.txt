@@ -1,0 +1,18 @@
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\bin\Debug\net472\GestionBancaire.Core.dll
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\bin\Debug\net472\GestionBancaire.Core.pdb
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.dll
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.pdb
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\bin\Debug\net472\GestionBancaire.Core.dll
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\bin\Debug\net472\GestionBancaire.Core.pdb
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.dll
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.Core\obj\Debug\net472\GestionBancaire.Core.pdb

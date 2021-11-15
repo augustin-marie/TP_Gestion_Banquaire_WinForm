@@ -1,0 +1,34 @@
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\bin\Debug\GestionBancaire.WinForm.exe.config
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\bin\Debug\GestionBancaire.WinForm.exe
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\bin\Debug\GestionBancaire.WinForm.pdb
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.csproj.GenerateResource.cache
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.exe
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.pdb
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\bin\Debug\GestionBancaire.Core.dll
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\bin\Debug\GestionBancaire.Core.pdb
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.ListeComptesForm.resources
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.CrediterCompteForm.resources
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.OuvrirCompteForm.resources
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.CreationBanqueForm.resources
+C:\Users\Utilisateur\Desktop\Cours\C#\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.DebiterCompteForm.resources
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.CrediterCompteForm.resources
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.DebiterCompteForm.resources
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.OuvrirCompteForm.resources
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.CreationBanqueForm.resources
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.ListeComptesForm.resources
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.csproj.GenerateResource.cache
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.exe
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.pdb
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\bin\Debug\GestionBancaire.WinForm.exe.config
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\bin\Debug\GestionBancaire.WinForm.exe
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\bin\Debug\GestionBancaire.WinForm.pdb
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\bin\Debug\GestionBancaire.Core.dll
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\bin\Debug\GestionBancaire.Core.pdb
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.ModifierCompteForm.resources
+C:\Users\Utilisateur\Desktop\Cours\C# - bases\TP - Gestion bancaire (interfaces)\GestionBancaire.WinForm\obj\Debug\GestionBancaire.WinForm.TransfertForm.resources
